@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d4de66-65c0-46e6-af3e-1c240520d5d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7594f0f3-43c3-45bd-812d-5d513ffe3f2c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7e0d52f3-b0ed-44b7-954f-46f185be0ec6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afe1d7e7-8fb1-40af-9886-367a15e7c173.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/customers.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/database_sql.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/resource_db_access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/resource_db_setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_client/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_client/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_client/read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_client/read_KAKAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_client/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_server/resource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest_server/resource_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/material-dashboard-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/material-dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/material-dashboard.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/css/material-dashboard.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/demo/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/demo/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/Macbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/angular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/ex1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/ex2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/ex3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/card-profile1-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/card-profile2-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/faces/marc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/iPad2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/imac1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/iphonex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/new_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/react.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/sidebar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/sidebar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/sidebar-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/sidebar-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/vue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/core/bootstrap-material-design.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/core/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/core/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/material-dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/material-dashboard.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/material-dashboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/arrive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/bootstrap-notify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/bootstrap-selectpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/bootstrap-tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/chartist.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/jasny-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/jquery-jvectormap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/jquery.bootstrap-wizard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/jquery.tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/perfect-scrollbar.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/js/plugins/sweetalert2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_checkboxes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_core-bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_example-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_fixed-plugin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_footers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_headers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_info-areas.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_misc.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_popups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_radios.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_ripples.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_sidebar-and-main-panel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_social-buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_togglebutton.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_navbar-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/cards/_card-plain.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/cards/_card-profile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/cards/_card-stats.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_chartist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_colored-shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_navbar-colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_navs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_sidebar-color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_transparency.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/mixins/_vendor-prefixes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/plugins/_animate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/plugins/_chartist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/plugins/_perfect-scrollbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_body.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_bootstrap-material-design-base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_bootstrap-material-design.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_brand.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_colors-map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_snackbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_state.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/scss/material-dashboard/variables/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/kakao_account_login_btn_medium_narrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/my_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/resource_check.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/menus.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customers" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customers" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customers" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customers" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="user: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="customers" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="TEMPERATURE: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="sqlite_master: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="sqlite_sequence: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="TEMPERATURE: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database_sql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RJQkHvzIOYJEPQjstZLQxDAINR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\web_service\static" />
+      <recent name="C:\Users\admin\PycharmProjects\web_service\templates" />
+      <recent name="C:\Users\admin\PycharmProjects\web_service\rest_client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\web_service\views" />
+      <recent name="C:\Users\admin\PycharmProjects\web_service\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.application">
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="news" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\web_service\views\menus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rest_client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rest_client/read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_KAKAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rest_client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rest_client/read_KAKAO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.application" />
+        <item itemvalue="Python.base" />
+        <item itemvalue="Python.news" />
+        <item itemvalue="Python.read_KAKAO" />
+        <item itemvalue="Python.read" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@cb2aa9a5" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@cb2aa9a5" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@1fd7ac9c" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d4de66-65c0-46e6-af3e-1c240520d5d4" name="Default Changelist" comment="" />
+      <created>1569382860537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569382860537</updated>
+      <workItem from="1569382862641" duration="662000" />
+      <workItem from="1569897032729" duration="4698000" />
+      <workItem from="1569982012033" duration="6025000" />
+      <workItem from="1570499514318" duration="5539000" />
+      <workItem from="1571710039850" duration="3458000" />
+      <workItem from="1571796322711" duration="5763000" />
+      <workItem from="1572314267072" duration="5765000" />
+      <workItem from="1572404061288" duration="3377000" />
+      <workItem from="1572919551758" duration="5575000" />
+      <workItem from="1573524824624" duration="5155000" />
+      <workItem from="1573610628894" duration="1988000" />
+      <workItem from="1574128799173" duration="6503000" />
+      <workItem from="1574733943767" duration="6161000" />
+      <workItem from="1574820095339" duration="5050000" />
+      <workItem from="1575338342512" duration="5211000" />
+      <workItem from="1575943391806" duration="1956000" />
+      <workItem from="1575949547467" duration="509000" />
+      <workItem from="1576029745321" duration="1310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web_service$resource_db_setup.coverage" NAME="resource_db_setup Coverage Results" MODIFIED="1571798682425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataBase" />
+    <SUITE FILE_PATH="coverage/web_service$resource_db_setup__1_.coverage" NAME="resource_db_setup (1) Coverage Results" MODIFIED="1572319297225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/web_service$web_service.coverage" NAME="web_service Coverage Results" MODIFIED="1571716276333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web_service$read_KAKAO.coverage" NAME="read_KAKAO Coverage Results" MODIFIED="1572407115067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rest_client" />
+    <SUITE FILE_PATH="coverage/web_service$delete.coverage" NAME="delete Coverage Results" MODIFIED="1572319486699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rest_client" />
+    <SUITE FILE_PATH="coverage/web_service$application.coverage" NAME="application Coverage Results" MODIFIED="1575341924043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web_service$create.coverage" NAME="create Coverage Results" MODIFIED="1572319593897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rest_client" />
+    <SUITE FILE_PATH="coverage/web_service$base.coverage" NAME="base Coverage Results" MODIFIED="1574734914236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/web_service$read.coverage" NAME="read Coverage Results" MODIFIED="1572320128820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rest_client" />
+    <SUITE FILE_PATH="coverage/web_service$update.coverage" NAME="update Coverage Results" MODIFIED="1572319464410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rest_client" />
+    <SUITE FILE_PATH="coverage/web_service$news.coverage" NAME="news Coverage Results" MODIFIED="1572920870009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
