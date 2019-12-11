@@ -8,3 +8,18 @@ conda create -n Service-Class python=3.6
 conda activate Service-Class
 //가상환경 끊기
 conda deactivate
+
+
+
+pm2 설치
+https://blog.outsider.ne.kr/1197
+
+
+sudo npm
+, pm설치시 sudo 권한 필요함
+
+//실행프로그램 보기
+ps -aux | grep python
+
+//pm 리스트 추가
+pm2 start python applicatoin.py
